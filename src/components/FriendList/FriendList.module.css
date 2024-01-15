@@ -1,0 +1,24 @@
+.status.online {
+    color: green;
+}
+
+.status.offline {
+    color: red;
+}
+
+.friend-list {
+    display: flex;
+    margin: 0;
+    padding: 0;
+    gap: 12px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+
+}
+
+.friendItem {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+    justify-content: center;
+}
