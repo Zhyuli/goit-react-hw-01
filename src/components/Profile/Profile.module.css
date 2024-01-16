@@ -5,7 +5,6 @@
     border-radius: 5px;
     margin-bottom: 50px;
     margin-left: 50px;
-
 }
 
 .avatar {
@@ -17,9 +16,7 @@
 
 .description {
     margin: 0 auto;
-
     background-color: #ffffff;
-
 }
 
 .name {
@@ -40,7 +37,6 @@
     color: darkgrey;
     margin-bottom: 10px;
 }
-
 
 .stats {
     display: flex;
